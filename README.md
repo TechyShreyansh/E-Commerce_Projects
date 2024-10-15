@@ -22,7 +22,6 @@ You can view a live demo of the project [here](#). *(Add your live demo link her
 - Product listing page with categories
 - Responsive design (works on all devices)
 - Shopping cart functionality
-- Simple checkout page
 - Footer with contact information and social media links
 
 ## Technologies Used
